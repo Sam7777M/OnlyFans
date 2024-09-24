@@ -25,6 +25,21 @@ Some Features:
 
 ### Images
 
+Auth Page
+<img width="1440" alt="Screenshot 2024-09-24 at 6 38 40 PM" src="https://github.com/user-attachments/assets/83c803aa-d3a1-4d19-804f-7e9b2e53cc22">
+
+Home Page
+<img width="1440" alt="Screenshot 2024-09-24 at 6 40 45 PM" src="https://github.com/user-attachments/assets/e22ee281-e02f-4259-9d69-7aae63f64c49">
+
+Secret-dashboard
+<img width="1440" alt="Screenshot 2024-09-24 at 6 33 37 PM" src="https://github.com/user-attachments/assets/50b371fc-19d5-4969-9364-1d59d617bf57">
+
+Our Products
+<img width="1440" alt="Screenshot 2024-09-24 at 6 37 17 PM" src="https://github.com/user-attachments/assets/51118767-ad1c-4af9-84f7-a7aac666c877">
+
+Pricing
+<img width="1440" alt="Screenshot 2024-09-24 at 6 40 59 PM" src="https://github.com/user-attachments/assets/6674d0cd-7943-484d-a606-01c43cac97fe">
+
 
 ### Setup .env file
 
