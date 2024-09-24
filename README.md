@@ -23,6 +23,9 @@ Some Features:
 -   🌐 Deployment
 -   👀 And Millions of Other Cool Features
 
+### Images
+
+
 ### Setup .env file
 
 ```js
